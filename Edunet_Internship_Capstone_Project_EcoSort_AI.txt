@@ -1,0 +1,43 @@
+------------------------------------------------------------
+                CAPSTONE PROJECT DETAILS
+------------------------------------------------------------
+
+Project Title:
+EcoSort AI – Smart Waste Segregation using Deep Learning
+
+Project Domain:
+Artificial Intelligence | Computer Vision | Deep Learning | Sustainability | Green Skills
+
+Project Description:
+EcoSort AI is an AI-powered smart waste segregation system designed to promote proper waste management and environmental sustainability. The system allows users to upload an image of a waste item. Using Computer Vision and Deep Learning, the application identifies the type of waste, classifies it into one of four categories: Organic, Recyclable, Hazardous, and E-waste, and provides appropriate disposal guidance and sustainability information. The system also maintains prediction logs and analytics to encourage responsible waste disposal and environmental awareness.
+
+Project Objectives:
+• Detect waste from uploaded images using Artificial Intelligence.
+• Classify waste into Organic, Recyclable, Hazardous, and E-waste categories.
+• Recommend the appropriate disposal and recycling methods.
+• Provide sustainability awareness and environmental guidance.
+• Maintain prediction history and analytics for better waste management.
+• Support Sustainable Development Goals (SDG 11, SDG 12, and SDG 13).
+
+Team Members:
+
++----+--------------------------------+----------------+---------------------------+----------------+-----------------------------------------------+
+| Sr | Full Name                      | Enrollment No. | Email ID                  | Phone Number   | College Name                                  |
++----+--------------------------------+----------------+---------------------------+----------------+-----------------------------------------------+
+| 1  | AYUSH MEHTA (Team Leader)      | 230470116007   | ayush145m@gmail.com       | 8460352403     | V.V.P. Engineering College, Rajkot            |
++----+--------------------------------+----------------+---------------------------+----------------+-----------------------------------------------+
+| 2  | MAHARSHI DANIDHARIYA           |                |                           | 9601471965     | V.V.P. Engineering College, Rajkot            |
++----+--------------------------------+----------------+---------------------------+----------------+-----------------------------------------------+
+| 3  | SMIT RAHECHA                   |                | smitsoni2105@gmail.com    | 9510072820     | Shree Swaminarayan Institute of Technology    |
++----+--------------------------------+----------------+---------------------------+----------------+-----------------------------------------------+
+
+Technologies Used:
+• Python
+• TensorFlow / Keras
+• MobileNetV2 (Transfer Learning)
+• OpenCV
+• NumPy
+• Pandas
+• Matplotlib
+• Google Colab
+• GitHub
